@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bianca Floruț.
-- 👀 I’m interested in software development, yoga, garten and many more.
+- 👀 I’m interested in software development, yoga, garden and many more.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on interensting projects.
 - 📫 How to reach me: write me here.
