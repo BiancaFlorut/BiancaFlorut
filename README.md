@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on interensting projects.
 - 📫 How to reach me: write me here.
 - 😄 Pronouns: she
-- ⚡ Fun fact: ...
 
 <!---
 BiancaFlorut/BiancaFlorut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
